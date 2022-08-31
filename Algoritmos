@@ -1,0 +1,5 @@
+Es una secuencia finita de operaciones realizables y precisas, cuya ejecución presenta una solución general para un problema dado.
+Debe ser: capaz de solucionar el problema, general (si se sigue el mismo proceso más de una vez llegaremos al mismo resultado), claro (no tenga ambigüedades y que sea posible describir cada paso), finito (debe tener un determinado número y secuencia de pasos) y preciso (cada paso a seguir tiene un orden de realización, dado. Hay actividades que se pueden llevar a cabo de manera paralela y otras que pudiesen intercambiarse sin modificar el resultado).
+No hay una sola forma de diseñar algoritmos.
+Proceso conformado por: datos (elementos de entrada), trabajo de la solución (proceso) y resultado (salida).
+Un aspecto importante en la solución de un problema es su comprensión (el ¿qué? o elementos de entrada), para posteriormente analizar, diseñar y evaluar posibles soluciones (el ¿cómo? o diseño de la solución), buscando orden, eficacia o eficiencia.
